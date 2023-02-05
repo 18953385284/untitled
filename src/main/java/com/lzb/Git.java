@@ -10,5 +10,6 @@ public class Git {
     System.out.println("Yes");
     System.out.println("我是Hot-fix");
     System.out.println("你好");
+    System.out.println("hot冲突");
   }
 }
