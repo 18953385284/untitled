@@ -14,5 +14,6 @@ public class Git {
     System.out.println("推送到gitHub");
     System.out.println("推送到gitHub2");
     System.out.println("推送失败");
+    System.out.println("1111");
   }
 }
