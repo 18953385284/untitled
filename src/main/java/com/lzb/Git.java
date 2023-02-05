@@ -9,5 +9,6 @@ public class Git {
     System.out.println("Hello Word");
     System.out.println("Yes");
     System.out.println("我是Hot-fix");
+    System.out.println("你好");
   }
 }
