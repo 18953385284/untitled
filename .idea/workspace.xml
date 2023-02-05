@@ -14,13 +14,13 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:hot-fix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f705c68-5c44-4d80-9867-2ab626bef2ae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +72,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -158,7 +158,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="hot-fix" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -173,7 +173,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="第4次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第4次提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="336" key="#Notifications" timestamp="1675576519009">
@@ -196,6 +197,10 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="741" y="271" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1675572996985" />
+    <state x="832" y="417" key="Github.ShareDialog" timestamp="1675580012687">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="832" y="417" key="Github.ShareDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1675580012686" />
     <state width="1877" height="272" key="GridCell.Tab.0.bottom" timestamp="1675574038668">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -212,10 +217,14 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1877" height="272" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1675574038668" />
-    <state x="462" y="161" key="SettingsEditor" timestamp="1675573173255">
+    <state x="462" y="161" key="SettingsEditor" timestamp="1675579965167">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="462" y="161" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1675573173255" />
+    <state x="462" y="161" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1675579965167" />
+    <state x="553" y="245" key="Vcs.Push.Dialog.v2" timestamp="1675580388144">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="553" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1675580388144" />
     <state x="767" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1675574240848">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
