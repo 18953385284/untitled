@@ -12,5 +12,6 @@ public class Git {
     System.out.println("你好");
     System.out.println("冲突");
     System.out.println("推送到gitHub");
+    System.out.println("推送到gitHub2");
   }
 }

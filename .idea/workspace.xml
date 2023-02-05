@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4f705c68-5c44-4d80-9867-2ab626bef2ae" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lzb/Git.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lzb/Git.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="hot-fix" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -221,10 +222,10 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="462" y="161" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1675579965167" />
-    <state x="553" y="245" key="Vcs.Push.Dialog.v2" timestamp="1675580388144">
+    <state x="553" y="245" key="Vcs.Push.Dialog.v2" timestamp="1675581533322">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="553" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1675580388144" />
+    <state x="553" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1675581533322" />
     <state x="767" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1675574240848">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
